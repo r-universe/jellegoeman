@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cherry"]
 	path = cherry
 	url = https://github.com/cran/cherry
-	shallow = true
-	registered = true
 [submodule "globaltest"]
 	path = globaltest
 	url = https://git.bioconductor.org/packages/globaltest
-	shallow = true
-	registered = true
 [submodule "hommel"]
 	path = hommel
 	url = https://github.com/cran/hommel
-	shallow = true
-	registered = true
 [submodule "penalized"]
 	path = penalized
 	url = https://github.com/cran/penalized
-	shallow = true
-	registered = true
