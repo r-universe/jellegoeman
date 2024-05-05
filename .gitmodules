@@ -5,9 +5,6 @@
 [submodule "cherry"]
 	path = cherry
 	url = https://github.com/cran/cherry
-[submodule "globaltest"]
-	path = globaltest
-	url = https://git.bioconductor.org/packages/globaltest
 [submodule "hommel"]
 	path = hommel
 	url = https://github.com/cran/hommel
