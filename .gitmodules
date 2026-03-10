@@ -5,6 +5,9 @@
 [submodule "cherry"]
 	path = cherry
 	url = https://github.com/cran/cherry
+[submodule "eClosure"]
+	path = eClosure
+	url = https://github.com/cran/eClosure
 [submodule "hommel"]
 	path = hommel
 	url = https://github.com/cran/hommel
